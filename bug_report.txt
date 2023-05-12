@@ -1,0 +1,7 @@
+ID
+Severity
+Title
+Steps
+Expected result
+Actual result
+Environment
