@@ -1,0 +1,10 @@
+№
+Title
+Environment
+Precondition
+Inputs
+Steps
+Expected result
+Status
+Attachments
+Bug link
